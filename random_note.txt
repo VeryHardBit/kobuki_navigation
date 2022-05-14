@@ -1,0 +1,23 @@
+Sauce for Kobuki robot on ROS2 foxy
+
+git clone https://github.com/kobuki-base/kobuki_ros
+git clone https://github.com/kobuki-base/kobuki_ros_interfaces
+sudo apt-get -y install ros-foxy-ecl-*
+sudo apt-get -y install ros-foxy-diagnostic-* 
+sudo apt-get -y install ros-foxy-kobuki-core ros-foxy-kobuki-*
+sudo apt-get -y install ros-foxy-navigation2 ros-foxy-nav2-bringup
+sudo apt-get -y install ros-foxy-cartographer ros-foxy-cartographer-ros
+sudo 
+
+git clone https://github.com/bigdayangyu/kobuki_navigation
+
+
+
+git clone https://github.com/strasdat/Sophus
+git clone https://github.com/fmtlib/fmt
+git clone https://github.com/xqms/rosfmt
+https://github.com/ros/diagnostics.git
+https://github.com/kobuki-base/kobuki_core
+https://github.com/stonier/ecl_core https://github.com/stonier/ecl_tools https://github.com/stonier/ecl_lite
+
+# Daniel Stonier works in every repos. Interested in his ass https://github.com/stonier
